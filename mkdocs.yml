@@ -1,0 +1,13 @@
+site_name: Calculadora para produção de cerveja
+repo_url: https://github.com/caioaugustofs/calculadora-de-cerveja
+repo_name: caioaugustofs/calculadora-de-cerveja
+edit_uri:  /tree/master/docs
+
+
+theme:
+  name: material
+  language: pt-BR
+
+markdown_extensions:
+  - attr_list
+    
